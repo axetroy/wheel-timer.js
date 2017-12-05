@@ -9,6 +9,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/axetroy/wheel-timer/badge.svg?branch=master)](https://coveralls.io/github/axetroy/wheel-timer?branch=master)
 [![Dependency](https://david-dm.org/axetroy/wheel-timer.svg)](https://david-dm.org/axetroy/wheel-timer)
 
+![](https://github.com/axetroy/wheel-timer/raw/master/screenshot.png)
+
 ## Usage
 
 ```javascript
