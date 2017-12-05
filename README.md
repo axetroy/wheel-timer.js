@@ -32,6 +32,8 @@ setInterval(() => {
 
 Here is a example to use with multiple time wheel
 
+![](https://github.com/axetroy/wheel-timer/raw/master/cron.jpg)
+
 ```javascript
 const HashWheelTimer = require('../index');
 
