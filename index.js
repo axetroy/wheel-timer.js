@@ -7,8 +7,8 @@ class HashWheelTimer extends EventEmitter {
   constructor(length) {
     super();
     this.length = length;
-    this.currentIndex = 0; // 当前指针位置
-    this.round = 0; // 指针转的圈数
+    this.currentIndex = 0;
+    this.round = 0;
     this.map = new Map();
     this.slot = [];
     for (let i = 0; i < length; i++) {

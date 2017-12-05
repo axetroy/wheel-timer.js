@@ -43,18 +43,34 @@ const second = new SecondTimer();
 const minute = new MinuteTimer();
 const hour = new HourTimer();
 
-second.on('tick', () => {
-  console.log(`current second: ${second.currentIndex}`);
+// run second one second
+second.on('tick', tasks => {
+  console.log(
+    `current second: ${
+      second.currentIndex
+    }, and here is the task should be run ${tasks.length}`
+  );
 });
 
-minute.on('tick', () => {
-  console.log(`current minute: ${minute.currentIndex}`);
+// run task one minute
+minute.on('tick', tasks => {
+  console.log(
+    `current minute: ${
+      minute.currentIndex
+    }, and here is the task should be run ${tasks.length}`
+  );
 });
 
-hour.on('tick', () => {
-  console.log(`current hour: ${hour.currentIndex}`);
+// run task one hour
+hour.on('tick', tasks => {
+  console.log(
+    `current hour: ${hour.currentIndex}, and here is the task should be run ${
+      tasks.length
+    }`
+  );
 });
 
+// only one timer
 setInterval(() => {
   second.tick();
 }, 1000);
