@@ -1,5 +1,6 @@
 ## Hashed and Hierarchical Timing Wheels Implement
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/wheel-timer.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/wheel-timer.svg?branch=master)](https://travis-ci.org/axetroy/wheel-timer)
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
