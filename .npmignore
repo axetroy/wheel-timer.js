@@ -1,0 +1,15 @@
+.idea
+.vscode
+*.log
+node_modules
+.nyc_output
+*.test.js
+example
+.all-contributorsrc
+.editorconfig
+.gitattributes
+.gitignore
+.github
+screenshot.png
+.travis.yml
+.gpmrc
