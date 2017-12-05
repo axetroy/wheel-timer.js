@@ -1,6 +1,6 @@
 {
   "name": "wheel-timer",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Hashed and Hierarchical Timing Wheels Implement",
   "main": "index.js",
   "directories": {
