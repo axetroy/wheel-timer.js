@@ -1,0 +1,29 @@
+{
+  "name": "wheel-timer",
+  "version": "0.0.1",
+  "description": "Hashed and Hierarchical Timing Wheels Implement",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axetroy/depsgetter.git"
+  },
+  "author": "Axetroy",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/axetroy/depsgetter/issues"
+  },
+  "homepage": "https://github.com/axetroy/depsgetter#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.54",
+    "ava": "^0.24.0",
+    "coveralls": "^3.0.0",
+    "nyc": "^11.3.0"
+  },
+  "dependencies": {}
+}
