@@ -25,6 +25,10 @@ setInterval(() => {
 }, 1000);
 ```
 
+## Example
+
+Here is a example to use with multiple time wheel
+
 ## Contributing
 
 [Contributing Guid](https://github.com/axetroy/wheel-timer/blob/master/CONTRIBUTING.md)
