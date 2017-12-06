@@ -51,6 +51,7 @@ class HashWheelTimer extends EventEmitter {
     if (this.currentIndex >= this.length - 1) {
       this.round++;
       this.currentIndex = 0;
+      this.emit('round');
     } else {
       this.currentIndex++;
     }
