@@ -1,18 +1,18 @@
 ## Hashed and Hierarchical Timing Wheels Implement
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/wheel-timer.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/axetroy/wheel-timer.svg?branch=master)](https://travis-ci.org/axetroy/wheel-timer)
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/wheel-timer.js.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/axetroy/wheel-timer.js.svg?branch=master)](https://travis-ci.org/axetroy/wheel-timer.js)
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
 [![npm version](https://badge.fury.io/js/%40axetroy%2Fstruct.svg)](https://badge.fury.io/js/%40axetroy%2Fstruct)
-![Size](https://github-size-badge.herokuapp.com/axetroy/wheel-timer.svg)
-[![Coverage Status](https://coveralls.io/repos/github/axetroy/wheel-timer/badge.svg?branch=master)](https://coveralls.io/github/axetroy/wheel-timer?branch=master)
+![Size](https://github-size-badge.herokuapp.com/axetroy/wheel-timer.js.svg)
+[![Coverage Status](https://coveralls.io/repos/github/axetroy/wheel-timer.js/badge.svg?branch=master)](https://coveralls.io/github/axetroy/wheel-timer.js?branch=master)
 [![Dependency](https://david-dm.org/axetroy/wheel-timer.svg)](https://david-dm.org/axetroy/wheel-timer)
 
 Useful to do some delay job.
 
-![](https://github.com/axetroy/wheel-timer/raw/master/screenshot.png)
+![](https://github.com/axetroy/wheel-timer.js/raw/master/screenshot.png)
 
 ## Usage
 
@@ -34,7 +34,7 @@ setInterval(() => {
 
 Here is a example to use with multiple time wheel
 
-![](https://github.com/axetroy/wheel-timer/raw/master/cron.jpg)
+![](https://github.com/axetroy/wheel-timer.js/raw/master/cron.jpg)
 
 ```javascript
 const HashWheelTimer = require('../index');
@@ -182,13 +182,13 @@ setInterval(() => {
 
 ## Contributing
 
-[Contributing Guid](https://github.com/axetroy/wheel-timer/blob/master/CONTRIBUTING.md)
+[Contributing Guid](https://github.com/axetroy/wheel-timer.js/blob/master/CONTRIBUTING.md)
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-| [<img src="https://avatars1.githubusercontent.com/u/9758711?v=3" width="100px;"/><br /><sub>Axetroy</sub>](http://axetroy.github.io)<br />[💻](https://github.com/axetroy/wheel-timer/commits?author=axetroy) [🐛](https://github.com/axetroy/wheel-timer/issues?q=author%3Aaxetroy) 🎨 |
+| [<img src="https://avatars1.githubusercontent.com/u/9758711?v=3" width="100px;"/><br /><sub>Axetroy</sub>](http://axetroy.github.io)<br />[💻](https://github.com/axetroy/wheel-timer.js/commits?author=axetroy) [🐛](https://github.com/axetroy/wheel-timer.js/issues?q=author%3Aaxetroy) 🎨 |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
@@ -196,4 +196,4 @@ setInterval(() => {
 
 ## License
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faxetroy%2Fwheel-timer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faxetroy%2Fwheel-timer?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faxetroy%2Fwheel-timer.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faxetroy%2Fwheel-timer.js?ref=badge_large)
