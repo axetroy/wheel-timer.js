@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
-[![npm version](https://badge.fury.io/js/%40axetroy%2Fstruct.svg)](https://badge.fury.io/js/%40axetroy%2Fstruct)
+[![npm version](https://badge.fury.io/js/wheel-timer.svg)](https://badge.fury.io/js/wheel-timer)
 ![Size](https://github-size-badge.herokuapp.com/axetroy/wheel-timer.js.svg)
 [![Coverage Status](https://coveralls.io/repos/github/axetroy/wheel-timer.js/badge.svg?branch=master)](https://coveralls.io/github/axetroy/wheel-timer.js?branch=master)
 [![Dependency](https://david-dm.org/axetroy/wheel-timer.svg)](https://david-dm.org/axetroy/wheel-timer)
